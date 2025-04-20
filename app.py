@@ -1,4 +1,4 @@
-import tensorflow as tf
+
 from tensorflow.keras.applications.mobilenet_v2 import decode_predictions, preprocess_input
 from tensorflow.keras.preprocessing import image
 import numpy as np
